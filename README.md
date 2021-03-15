@@ -1,6 +1,6 @@
 # A spec compliant OAuth2.0 Server
 
-[![Node.js CI](https://github.com/identor/oauth-server/actions/workflows/run-test.yml/badge.svg)](https://github.com/identor/oauth-server/actions/workflows/run-test.yml)
+[![Node.js CI](https://github.com/identor/oauth-server/actions/workflows/node.js.yml/badge.svg)](https://github.com/identor/oauth-server/actions/workflows/node.js.yml)
 
 Built with `@nestjs/cli`
 
