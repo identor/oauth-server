@@ -8,3 +8,13 @@ See: https://tools.ietf.org/html/rfc6749
 
 ## Starting the server
 `npm run start`
+
+### TODO
+ - [ ] Supported OAuth2.0 Flows
+   - [ ] Auth Code Flow
+   - [ ] Resource Owner Password Credentials
+   - [ ] Client Credentials Flow
+ - [ ] Clients
+   - [ ] Client registration
+   - [ ] Client deletion
+   - [ ] Client update
